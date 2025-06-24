@@ -23,3 +23,6 @@ This project demonstrates how to clean and prepare data using the Titanic datase
 
 ## ✅ Output:
 Cleaned data ready for machine learning.
+
+[click here to view the cide and output of]
+https://github.com/DeekshithaRM/titanic_preprocessing_task/blob/main/AIML_INTERNSHIP_TASK1.pdf
